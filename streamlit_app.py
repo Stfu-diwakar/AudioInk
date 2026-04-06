@@ -6,7 +6,7 @@ import os
 
 # Page config
 st.set_page_config(
-    page_title="VoiceScribe 🎤",
+    page_title="AudioInk 🎤",
     page_icon="🎤",
     layout="centered"
 )
