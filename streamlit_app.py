@@ -51,7 +51,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Header
-st.markdown('<div class="title">🎤 VoiceScribe</div>', unsafe_allow_html=True)
+st.markdown('<div class="title">🎤 AudioInk™</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">Convert your audio into text instantly</div>', unsafe_allow_html=True)
 
 # Card container
